@@ -1,54 +1,53 @@
 # Website Project Angelo Lucaci
 
-Un website modern și atractiv, realizat pentru a oferi o experiență vizuală captivantă și un design responsiv.
+A modern and visually appealing website, designed to deliver an engaging user experience and fully responsive layout.
 
-## 🌍 Link Demo
+## 🌍 Live Demo
 
-🔗 [Vizitează website-ul](https://websiteprojectangelolucaci.netlify.app/)
+🔗 [Visit the website](https://websiteprojectangelolucaci.netlify.app/)
 
-## 🛠️ Tehnologii folosite
+## 🛠️ Technologies Used
 
-- **HTML5** – Structura paginii web
-- **CSS3** – Design și stilizare
-- **JavaScript** – Funcționalitate și interactivitate
-- **GSAP** – Animații fluide și atractive
-- **Three.js** – Grafică 3D interactivă
-- **Netlify** – Hosting rapid și sigur
+- **HTML5** – Web page structure
+- **CSS3** – Styling and design
+- **JavaScript** – Functionality and interactivity
+- **GSAP** – Smooth and attractive animations
+- **Three.js** – Interactive 3D graphics
+- **Netlify** – Fast and secure hosting
 
-## 🚀 Cum rulezi proiectul local
+## 🚀 How to Run the Project Locally
 
-Dacă vrei să testezi proiectul local, urmează acești pași simpli:
+If you’d like to test the project locally, follow these simple steps:
 
-1. Clonează repository-ul:
+1. Clone the repository:
    ```bash
    git clone https://github.com/user/websiteprojectangelolucaci.git
    ```
-2. Navighează în directorul proiectului:
+2. Navigate to the project directory:
    ```bash
    cd websiteprojectangelolucaci
    ```
-3. Deschide fișierul `index.html` direct în browser sau folosește un server local (ex: Live Server din VS Code).
+3. Open the `index.html` file directly in your browser or use a local server (e.g., VS Code Live Server).
 
-## 📷 Capturi de ecran
+## 📷 Screenshots
 
-(Adaugă aici imagini reprezentative ale website-ului)
+(Add some representative images of the website here)
 
-## 🔥 Caracteristici
+## 🔥 Features
 
-- Layout modern și complet responsiv
-- Animații și efecte vizuale fluide cu GSAP
-- Grafică 3D interactivă cu Three.js
-- Navigare intuitivă și rapidă
+- Modern, fully responsive layout
+- Smooth animations and visual effects with GSAP
+- Interactive 3D graphics powered by Three.js
+- Fast and intuitive navigation
 
-## 💡 Contribuie
+## 💡 Contributing
 
-Dacă ai idei de îmbunătățire, fork-uiește repository-ul și trimite un pull request!
+Have ideas for improvement? Fork the repository and submit a pull request!
 
 ## 📬 Contact
 
-Pentru întrebări, feedback sau colaborări, mă poți contacta la [lucaciangelo@gmail.com](mailto:lucaciangelo@gmail.com).
+For questions, feedback, or collaborations, feel free to reach me at [lucaciangelo@gmail.com](mailto:lucaciangelo@gmail.com).
 
 ---
 
-🚀 *Website Project Angelo Lucaci - Design modern, experiență unică!*
-
+🚀 *Website Project Angelo Lucaci – Modern design, unique experience!*
