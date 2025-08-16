@@ -1,4 +1,4 @@
-# Website Project Angelo Lucaci
+# Apple Website Replica Project
 
 A modern and visually appealing website, designed to deliver an engaging user experience and fully responsive layout.
 
