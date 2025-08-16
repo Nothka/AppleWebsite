@@ -1,11 +1,5 @@
 # Apple Website Replica Project
 
-A modern and visually appealing website, designed to deliver an engaging user experience and fully responsive layout.
-
-## 🌍 Live Demo
-
-🔗 [Visit the website](https://websiteprojectangelolucaci.netlify.app/)
-
 ## 🛠️ Technologies Used
 
 - **HTML5** – Web page structure
